@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Python Basics for Absolute Beginners",
+        "time": "12:30 mins"
+    },
+    {
+        "name": "Learn JSON in 5 Minutes",
+        "time": "05:12 mins"
+    },
+    {
+        "name": "Understanding Python Functions",
+        "time": "08:45 mins"
+    },
+    {
+        "name": "Mastering Match-Case in Python",
+        "time": "06:20 mins"
+    },
+    {
+        "name": "Build a CLI App in Python",
+        "time": "09:10 mins"
+    }
+]
