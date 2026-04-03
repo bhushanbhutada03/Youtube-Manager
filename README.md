@@ -1,6 +1,6 @@
 # YouTube Manager — Python CLI Application
 
-## Overview
+## Overview 
 
 YouTube Manager is a command-line application developed using Python that allows users to manage basic information about YouTube videos.
 
