@@ -3,7 +3,7 @@
 ## Overview 
 
 YouTube Manager is a command-line application developed using Python that allows users to manage basic information about YouTube videos.
-
+ 
 The application provides functionality to add, list, update, and delete video records stored in a local JSON file. It demonstrates fundamental programming concepts such as file handling, JSON data manipulation, modular program design, and menu-driven CLI applications.
 
 All data is stored locally and automatically persisted between program executions.
